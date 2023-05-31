@@ -150,3 +150,11 @@ footer {
 .greeting {
     text-align: center;
 }
+
+.vid {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    width: 75%;
+    height: 50%;
+}
